@@ -2,8 +2,8 @@ import os
 from rembg import remove
 from PIL import Image
 
-input_folder = 'C:/Users/user/Documents/Python VSCode/BG'
-output_folder = 'C:/Users/user/Documents/Python VSCode/NOBG'
+input_folder = ''
+output_folder = ''
 
 # Create output folder if it doesn't exist
 if not os.path.exists(output_folder):
