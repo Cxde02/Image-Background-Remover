@@ -14,6 +14,15 @@ The script supports the following image formats:
   <li>AVIF</li>
 </ol>
 
+## Depedencies
+<ul>
+  <li>os: Operating system module for file and directory operations.
+</li>
+  <li>rembg: Library for removing image backgrounds.
+</li>
+  <li>PIL: Python Imaging Library for image processing.
+</li>
+</ul>
 
 
 
